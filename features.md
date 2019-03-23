@@ -1,6 +1,8 @@
 | Feature        | Description   | Free  |
 | -------------- |:-------------:| -----:|
-| Join Messages  | Send messages on player join | ✓  |
-| Quit Messages  | Sebd messages on player quit | ✓ |
+| Join Messages  | Send messages on player join |✓|
+| Quit Messages  | Send messages on player quit |✓|
+| Message of the Day | Send MOTD to player on join |✓|
+||
 
-> Soon to come.
+> You can easily configure this settings on and off in the options.yml file.
